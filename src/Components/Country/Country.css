@@ -1,0 +1,10 @@
+.country {
+    background-color: cornsilk;
+    border: 2px solid purple;
+    border-radius: 20px;
+    padding: 20px;
+  }
+
+.country img {
+    width: 200px;
+}

@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.search-box {
+  margin-bottom: 20px;
+}
+.search-input {
+  width: 38rem;
+  padding: 10px;
+  border: 2px solid darkviolet;
+  border-right: none;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.search-btn {
+  background-color: darkviolet;
+  color: white;
+  border: 2px solid darkviolet;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding: 10px;
+}
